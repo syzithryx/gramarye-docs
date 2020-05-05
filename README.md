@@ -36,35 +36,35 @@ So, to complete the answer to the question we started with, Gramarye is:
 Ambitious? Of course. What worthy endeavor isn't? Here's how we will do it. Each section to follow corresponds to a sub-project - one modular piece of the grand design.
 
 ## Virtual Spaces
-### The Node System
+### [The Node System](virtual spaces/node system.md)
 Nodes as actors in the actor model (finite automata), with links as messaging contacts
-### Language of Magic
+### [Language of Magic](virtual spaces/language of magic.md)
 Visual, flowchart-like system (similar to DRAKON) for intuitively managing the "AI" of nodes
-### Auto-Describer
+### [Auto-Describer](virtual spaces/auto-describer.md)
 Translates relationships among nodes into verbal descriptions in any language
-### Procedural Generation
+### [Procedural Generation](virtual spaces/procedural generation.md)
 AIs or other algorithms translating node structures into 2D or 3D images
 
 ## Interfaces
-### Accessibility
+### [Accessibility](interfaces/accessibility.md)
 Every system must be accessible to people with as many types of disabilities as possible
-### Augmented Reality
+### [Augmented Reality](interfaces/augmented reality.md)
 "Quests" to be performed in the real world for in-game rewards (such as merit)
 
 ## Distributed Computing
-### Scheduling
+### [Scheduling](distributed computing/scheduling.md)
 Turn-based activity unfolding in real time - a hybrid style of gameplay
-### Memory/Processing Trading
+### [Memory/Processing Trading](distributed computing/memory processing trading.md)
 The main currency is used to rent memory or processor cycles, or modify nodes; it recharges based on merit
 
 ## Decentralized Consensus
-### Byzantine Reliable Broadcast
+### [Byzantine Reliable Broadcast](decentralized consensus/byzantine reliable broadcast.md)
 A protocol which may soon replace blockchain (cutting edge research)
-### Egregores
+### [Egregores](decentralized consensus/egregores.md)
 Leader entities controlled collectively by numerous players, mergers of hive mind and AI
-### Merit System
+### [Merit System](decentralized consensus/merit system.md)
 Each player gets a few "merits" each day which can be donated at will; higher merit = more influence
 
 ## Nonviolent Ecology
-### Collective Creativity
+### [Collective Creativity](nonviolent ecology/collective creativity.md)
 Players design procgens, which design mutations, which are selected by players
