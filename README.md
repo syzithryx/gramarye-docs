@@ -35,7 +35,8 @@ So, to complete the answer to the question we started with, Gramarye is:
 
 Ambitious? Of course. What worthy endeavor isn't? Here's how we will do it. Each section to follow corresponds to a sub-project - one modular piece of the grand design.
 
-## Virtual Spaces
+## [Virtual Spaces](virtual-spaces/virtual-spaces.md)
+Each player has the ability to simulate their own virtual space on their own computer.
 ### [The Node System](virtual-spaces/node-system.md)
 Nodes as actors in the actor model (finite automata), with links as messaging contacts
 ### [Language of Magic](virtual-spaces/language-of-magic.md)
